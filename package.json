@@ -1,0 +1,20 @@
+{
+  "name": "shadowoptions_new",
+  "version": "1.0.0",
+  "description": "Get perfect shadows for image.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sugumar-DCKAP/shadowoptions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sugumar-DCKAP/shadowoptions/issues"
+  },
+  "homepage": "https://github.com/Sugumar-DCKAP/shadowoptions#readme"
+}
